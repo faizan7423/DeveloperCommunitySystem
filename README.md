@@ -16,7 +16,7 @@ Developer Community System is a web application designed to facilitate communica
 - **Spring Boot**: Framework used for building the web application.
 - **Spring Data JPA**: Provides support for data access and manipulation using Java Persistence API (JPA).
 - **Spring MVC**: Architecture used for building the web layer.
-- **MySQL**: Relational database management system used for data storage.
+- **PSQL**: Relational database management system used for data storage.
 - **ModelMapper**: Library used for mapping DTOs (Data Transfer Objects) to entities and vice versa.
 - **JUnit**: Framework used for unit testing.
 - **Mockito**: Library used for mocking dependencies in unit tests.
